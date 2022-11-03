@@ -26,7 +26,7 @@ class RegisterActivity : AppCompatActivity()  {
     }
 
     private fun setValues() {
-        user.username = email.text.toString()
+        user.username = username.text.toString()
         user.lastname = lastname.text.toString()
         user.password = password.text.toString()
         user.firstname = firstname.text.toString()
