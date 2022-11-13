@@ -1,2 +1,2 @@
 # WalmartApp
-Munk Assignment 4 - Walmart App
+Munkh Assignment 5 - Quiz + Product details using RecyclerView
